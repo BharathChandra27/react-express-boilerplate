@@ -1,5 +1,5 @@
 # react-express-boilerplate
-An application to connect react with express. Here the react app is built by using webpack and babel loader instead of bootstraping using the [create-react-app] (https://github.com/facebook/create-react-app) from github.
+An application to connect react with express. Here the react app is built by using webpack and babel loader instead of bootstraping using the [create-react-app](https://github.com/facebook/create-react-app) from github.
 
 ## Available Scripts
 
